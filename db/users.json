@@ -1,0 +1,20 @@
+{
+  "saif": {
+    "username": "saif",
+    "password": "sS&123123&",
+    "student_type": "علمي",
+    "telegram_user_id": "1475261130",
+    "telegram_username": "saifx04",
+    "telegram_first_name": "S̶A̶I̶F̶ 𖤍",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_1.jpg",
+    "session_id": null,
+    "created_at": "2026-05-07T08:35:51.884368",
+    "verified": true,
+    "last_login": "2026-05-07T08:35:56.188052",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 4
+  }
+}

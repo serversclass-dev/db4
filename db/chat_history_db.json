@@ -31,5 +31,28 @@
     "last_file": "p6.txt",
     "subject": "it",
     "saved_at": "2026-05-08T16:36:13.739119"
+  },
+  "saif__physics_mechanic": {
+    "username": "saif",
+    "subject_id": "physics_mechanic",
+    "messages": [
+      {
+        "role": "user",
+        "content": "س) يقف رجل على ميزان مثبت على أرضية مصعد، فإذا كان وزن الرجل  نيوتن، فإن قراءة الميزان تساوي:",
+        "timestamp": "2026-05-11T18:26:30.593441+00:00"
+      }
+    ],
+    "full_messages": [
+      {
+        "role": "user",
+        "content": "س) يقف رجل على ميزان مثبت على أرضية مصعد، فإذا كان وزن الرجل  نيوتن، فإن قراءة الميزان تساوي:",
+        "timestamp": "2026-05-11T18:26:30.593441+00:00"
+      }
+    ],
+    "summary": "",
+    "message_count": 0,
+    "last_file": null,
+    "subject": "physics_mechanic",
+    "saved_at": "2026-05-11T18:26:03.117448"
   }
 }

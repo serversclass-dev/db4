@@ -7,10 +7,10 @@
     "telegram_username": "saifx04",
     "telegram_first_name": "S̶A̶I̶F̶ 𖤍",
     "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_1.jpg",
-    "session_id": "133f0584-28b1-4dfd-b81d-f3a1a78fbddf",
+    "session_id": "c56686a9-c57a-465c-b6af-f23183cf94f6",
     "created_at": "2026-05-07T08:35:51.884368",
     "verified": true,
-    "last_login": "2026-05-11T18:25:55.972836",
+    "last_login": "2026-05-11T23:25:05.385058",
     "balance": 0,
     "purchased_subjects": [
       "islamic",
@@ -27,5 +27,33 @@
     ],
     "server_num": 4,
     "password_changed_at": "2026-05-08T16:20:46.826174"
+  },
+  "mansour": {
+    "username": "mansour",
+    "password": "mansour123..M",
+    "student_type": "علمي",
+    "telegram_user_id": "6145498721",
+    "telegram_username": null,
+    "telegram_first_name": "⚡ MNSX",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_58.jpg",
+    "session_id": "86b588bc-e88d-4998-8f9e-406356957736",
+    "created_at": "2026-05-11T20:30:05.459927",
+    "verified": true,
+    "last_login": "2026-05-11T20:36:13.945321",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "literary_studies",
+      "linguistic_studies",
+      "physics_mechanic",
+      "physics_electric",
+      "chemistry",
+      "it",
+      "statistics",
+      "math",
+      "english",
+      "biology"
+    ],
+    "server_num": 4
   }
 }

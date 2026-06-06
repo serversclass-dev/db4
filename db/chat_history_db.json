@@ -17,9 +17,32 @@
       }
     ],
     "summary": "",
+    "message_count": 1,
+    "last_file": "p1.txt",
+    "subject": "islamic",
+    "saved_at": "2026-06-06T20:38:59.226775"
+  },
+  "saif__math": {
+    "username": "saif",
+    "subject_id": "math",
+    "messages": [
+      {
+        "role": "user",
+        "content": "ملخص القاعدهً الصيغه العامه لمصفوفات مرفوعهً لي اس ن",
+        "timestamp": "2026-06-06T20:56:16.562421+00:00"
+      }
+    ],
+    "full_messages": [
+      {
+        "role": "user",
+        "content": "ملخص القاعدهً الصيغه العامه لمصفوفات مرفوعهً لي اس ن",
+        "timestamp": "2026-06-06T20:56:16.562421+00:00"
+      }
+    ],
+    "summary": "",
     "message_count": 0,
     "last_file": null,
-    "subject": "islamic",
-    "saved_at": "2026-06-06T14:30:37.044293"
+    "subject": "math",
+    "saved_at": "2026-06-06T20:54:41.423354"
   }
 }

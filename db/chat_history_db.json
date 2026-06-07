@@ -40,9 +40,32 @@
       }
     ],
     "summary": "",
+    "message_count": 1,
+    "last_file": "p1.txt",
+    "subject": "math",
+    "saved_at": "2026-06-06T22:07:03.553317"
+  },
+  "saif__biology": {
+    "username": "saif",
+    "subject_id": "biology",
+    "messages": [
+      {
+        "role": "user",
+        "content": "اشرحلي درس التزاوجً او الجماع الاتصال الجنسي 🙈",
+        "timestamp": "2026-06-06T22:13:05.414320+00:00"
+      }
+    ],
+    "full_messages": [
+      {
+        "role": "user",
+        "content": "اشرحلي درس التزاوجً او الجماع الاتصال الجنسي 🙈",
+        "timestamp": "2026-06-06T22:13:05.414320+00:00"
+      }
+    ],
+    "summary": "",
     "message_count": 0,
     "last_file": null,
-    "subject": "math",
-    "saved_at": "2026-06-06T20:54:41.423354"
+    "subject": "biology",
+    "saved_at": "2026-06-06T22:10:59.187837"
   }
 }
